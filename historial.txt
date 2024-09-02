@@ -1,0 +1,12 @@
+    1  ls
+    2  pwd
+    3  whoami
+    4  pwd
+    5  ls
+    6  cd repogit/
+    7  ls
+    8  git clone https://github.com/juangalante0/galante_vagrant.git
+    9  ls
+   10  cd galante_vagrant/
+   11  history
+   12  history > historial.txt
